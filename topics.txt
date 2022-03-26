@@ -1,0 +1,18 @@
+Front End (basic):
+html
+css
+bootstrap
+javascript
+jquery
+
+Serverside programming:
+php
+mysql
+Ajax
+Project
+
+Later On - if enrolled for front end
+Javscript
+TypeScript
+Angular
+Api
