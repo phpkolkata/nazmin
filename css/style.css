@@ -1,0 +1,34 @@
+.fLeft {
+  float: left;
+}
+.fRight {
+  float: right;
+}
+.clear {
+  clear: both;
+}
+.bdr {
+  border: 1px solid black;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.header {
+  height: 100px;
+}
+.navBar {
+  height: 50px;
+}
+.leftBody {
+  width: 20%;
+  height: 500px;
+}
+.rightBody {
+  width: 79%;
+  height: 500px;
+}
+.footer {
+  height: 50px;
+}
